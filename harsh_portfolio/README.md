@@ -1,4 +1,4 @@
-# 🖥️ Portfolio – Himanshu Singh
+# 🖥️ Portfolio – Harsh Shukla
 
 This is my personal portfolio website where I showcase my projects, skills, and achievements.
 It is built to demonstrate my web development expertise and provide an easy way to connect with me.
