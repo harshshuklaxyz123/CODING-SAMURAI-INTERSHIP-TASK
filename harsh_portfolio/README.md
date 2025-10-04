@@ -24,24 +24,3 @@ Version Control: Git & GitHub
 Deployment: GitHub Pages
 
 
-# 🔧 Installation & Setup
-
-To run this project locally:
-
-## Clone the repository
-git clone https://github.com/your-username/portfolio.git
-
-## Go inside the folder
-cd portfolio
-
-## Install dependencies
-npm install
-
-## Run the app
-npm start
-
-# 📬 Contact
-
-Name: Himanshu Singh
-
-Email: himanshusingh39397@gmail.com
