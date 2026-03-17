@@ -44,4 +44,4 @@ This is a simple To-do List web application where users can add, edit, and delet
 ---
 
 ## Author
-Aditi Srivastava
+HARSH SHUKLA
